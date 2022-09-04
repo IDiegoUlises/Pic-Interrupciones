@@ -1,6 +1,6 @@
 # Pic 16F887 Interrupciones
 
-* **El Pin INT funciona como interrupcion externa**
+* **El Pin INT funciona como una interrupcion externa**
 * Vdd: Positivo del microcontrolador
 * Vss: Negativo del microcontrolador
 * Clkin: Osicilador conectado a negativo
