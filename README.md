@@ -1,4 +1,4 @@
-# Pic-Interrupciones
+# Pic 16F887 Interrupciones
 
 * **El Pin INT funciona como interrupcion externa **
 * Vdd: Positivo del microcontrolador
