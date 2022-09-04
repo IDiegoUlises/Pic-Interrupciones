@@ -45,8 +45,8 @@ void main()
 ### Luego subir el programa al microcontrolador con "Write"
 <img src="https://github.com/IDiegoUlises/Pic-Interrupciones/blob/main/Images/Write-pickit.png"  />
 
-### Conexion falta
-<img src="https://github.com/IDiegoUlises/Pic-Entradas-Analogicas/blob/main/Images/Circuito-En-Fritzing.png" />
+### Conexion
+<img src="https://github.com/IDiegoUlises/Pic-Interrupciones/blob/main/Images/Circuito-En-Fritzing2.png" />
 
 ### Funcionamiento
-![](https://github.com/IDiegoUlises/Pic-Entradas-Analogicas/blob/main/Images/Entradas-Analogicas-Pic.gif)
+![](https://github.com/IDiegoUlises/Pic-Interrupciones/blob/main/Images/Interrupcion.gif)
