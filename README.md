@@ -1,5 +1,11 @@
 # Pic-Interrupciones
 
+* **El Pin INT funciona como interrupcion externa **
+* Vdd: Positivo del microcontrolador
+* Vss: Negativo del microcontrolador
+* Clkin: Osicilador conectado a negativo
+* Clkout: Osicilador conectado a negativo
+
 ```c
 #include <16f887.h> //Nombre del microcontrolador
 #fuses xt,nowdt  //para osciladores de 4 MegaHertz se usa xt para mayores usa hs
